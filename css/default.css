@@ -23,6 +23,7 @@ header{
     top: 0;
     right: 0;
     left: 0;
+    z-index: 999;
 }
 
 .default_margin{
@@ -34,7 +35,6 @@ header{
     width: 1160px;
     display: flex;
     align-items: center;
-    padding: 0 16px;
 }
 
 ul{
